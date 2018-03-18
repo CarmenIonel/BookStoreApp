@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Users>
+    <User>
+        <Name>Ionel Carmen</Name>
+        <Address>Primaverii</Address>
+        <Phone>0744260322</Phone>
+        <Email>admin124@yahoo.com</Email>
+        <Role>ROLE_ADMIN</Role>
+        <Username>admin</Username>
+        <Password>admin</Password>
+    </User>
+    <User>
+        <Name>Mares Bianca</Name>
+        <Address>Buzau</Address>
+        <Phone>Bianca@yahoo.com</Phone>
+        <Email>0744347322</Email>
+        <Role>ROLE_EMPLOYEE</Role>
+        <Username>mares</Username>
+        <Password>12345</Password>
+    </User>
+</Users>

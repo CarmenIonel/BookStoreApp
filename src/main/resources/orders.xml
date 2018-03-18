@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Orders>
+    <Order>
+        <Name>Alexandra Tudosa</Name>
+        <Price>67.4</Price>
+        <Books>
+            <Title>The theory of everything</Title>
+            <Author>Stephen Hawking</Author>
+            <Genre>SF</Genre>
+            <Price>33.7</Price>
+            <Stock>2</Stock>
+        </Books>
+    </Order>
+</Orders>

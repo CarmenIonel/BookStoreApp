@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BookStore>
+    <Book>
+        <Title>Universe in a nutshell</Title>
+        <Author>Stephen Hawking</Author>
+        <Genre>SF</Genre>
+        <Price>33.7</Price>
+        <Stock>129</Stock>
+    </Book>
+    <Book>
+        <Title>The theory of everything</Title>
+        <Author>Stephen Hawking</Author>
+        <Genre>SF</Genre>
+        <Price>33.7</Price>
+        <Stock>28</Stock>
+    </Book>
+    <Book>
+        <Title>Amintiri din copilarie</Title>
+        <Author>Ion Creanga</Author>
+        <Genre>Autobiografie</Genre>
+        <Price>15.5</Price>
+        <Stock>30</Stock>
+    </Book>
+</BookStore>
